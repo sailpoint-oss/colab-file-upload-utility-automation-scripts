@@ -1,0 +1,11 @@
+emp_id,last_name,first_name,display_name,position,email,end_date,manager,start_date,employee_status,employee_type,department,location
+101012,Bing,Chandler,Chandler Bing,Billing Manager,joey.tribbiani@abcd.com,12/31/2024,krishna.mummadi,01-01-2024,Inactive,Contractor,Finance,Spain
+101014,Buffay,Phoebe,Phoebe Buffay,Billing Coordinator,joey.tribbiani@abcd.com,12/31/9999,krishna.mummadi,01-01-2024,Inactive,Internal,Marketing,Canada
+101017,Frank,Anne,Anne frank,Director - IT,joey.tribbiani@abcd.com,12/31/9999,krishna.mummadi,01-01-2024,Active,Internal,HR,Nederlands
+101013,Geller,Monica,Monica Geller,Chef,joey.tribbiani@abcd.com,12/31/9999,krishna.mummadi,01-01-2024,Active,Internal,FB2,Italy
+101011,Geller,Ross,Ross geller,IT Analyst,joey.tribbiani@abcd.com,12/31/9999,krishna.mummadi,01-01-2024,Active,Internal,IT,USA
+101018,Gilbert,Elena,Elena Gilbert,SDE-1,joey.tribbiani@abcd.com,12/31/2025,krishna.mummadi,01-01-2024,Active,Freelancer,IT,USA
+101015,Green,Rachel,Rachel Green,Fashion Designer,joey.tribbiani@abcd.com,12/31/2025,krishna.mummadi,01-01-2024,Active,Contractor,IT,France
+101019,Mummadi,Gautham,Gautham Mummadi,SDE-1,joey.tribbiani@abcd.com,12/31/9999,krishna.mummadi,01-01-2024,Active,Internal,IT,India
+101016,Salvatore,Damon,Damon Salvatore,Product Lead,joey.tribbiani@abcd.com,12/31/9999,krishna.mummadi,01-01-2024,Inactive,Internal,IT,Germany
+101010,Tribbiani,Joey,Joey Tribbiani,SDE-1,joey.tribbiani@abcd.com,12/31/9999,krishna.mummadi,01-01-2024,Active,Internal,IT,USA
