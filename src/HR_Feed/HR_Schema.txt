@@ -1,0 +1,13 @@
+emp_id
+last_name
+first_name
+display_name
+position
+email
+end_date
+manager
+start_date
+employee_status
+employee_type
+department
+location
